@@ -1,0 +1,2 @@
+# Encryption_and_Decryption
+This is my first year C program. This C program works to encrypt and decrypt the code user will enter. When user enter 1 it will ask for 4 digit pin then menu will re-appear and when user enter 2 encrypted code will appear and also that encrypted code will match wth the default code in option 3 it will decrypt that code again option 4 will count how many code succesfully or unsucessfully entered
